@@ -1,0 +1,33 @@
+body{
+
+
+    /* background-color: black; */
+}
+
+
+#cv-form{
+    /* display: none; */
+}
+
+#cv-template{
+    display: none;
+}
+
+
+.myimg {
+ border: 1px solid black;
+ border-radius: 15rem;
+ -webkit-border-radius: 15rem;
+ -moz-border-radius: 15rem;
+ -ms-border-radius: 15rem;
+ -o-border-radius: 15rem;
+
+ width: 200px;
+}
+
+.background {
+
+    background-color: rgb(30, 220, 84);
+}
+
+
